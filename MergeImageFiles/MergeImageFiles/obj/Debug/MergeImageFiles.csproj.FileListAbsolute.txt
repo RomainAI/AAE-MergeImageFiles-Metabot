@@ -1,0 +1,6 @@
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles\bin\Debug\MergeImageFiles.dll
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles\bin\Debug\MergeImageFiles.pdb
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles\obj\Debug\MergeImageFiles.csprojAssemblyReference.cache
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles\obj\Debug\MergeImageFiles.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles\obj\Debug\MergeImageFiles.dll
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles\obj\Debug\MergeImageFiles.pdb

@@ -1,0 +1,10 @@
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\bin\Debug\MergeImageFiles_Test.exe.config
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\bin\Debug\MergeImageFiles_Test.exe
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\bin\Debug\MergeImageFiles_Test.pdb
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\bin\Debug\MergeImageFiles.dll
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\bin\Debug\MergeImageFiles.pdb
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\obj\Debug\MergeImageFiles_Test.csprojAssemblyReference.cache
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\obj\Debug\MergeImageFiles_Test.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\obj\Debug\MergeImageFiles_Test.csproj.CopyComplete
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\obj\Debug\MergeImageFiles_Test.exe
+C:\Users\Romain.Alexandre\source\repos\MergeImageFiles\MergeImageFiles_Test\obj\Debug\MergeImageFiles_Test.pdb
